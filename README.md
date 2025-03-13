@@ -1,33 +1,55 @@
-Learning Excel and Data Analysis / Nauka Excela i Analizy Danych
+# 📊 Learning Excel and Data Analysis / Nauka Excela i Analizy Danych
 
-Welcome to the repository dedicated to learning Excel, data analysis, and tools that support working with data! 
-📊📈Witamy w repozytorium poświęconym nauce Excela, analizie danych oraz narzędziom wspierającym pracę z danymi! 📊📈
+[🇬🇧 English Version](#english-version) | [🇵🇱 Wersja Polska](#wersja-polska)
 
-🎯 Project Goal / Cel Projektu
+---
+
+## 🇬🇧 English Version
+
+### 🎯 Project Goal
 
 The goal of this repository is to provide practical materials, guides, and examples on:
-Celem tego repozytorium jest dostarczenie praktycznych materiałów, przewodników i przykładów dotyczących:
 
-Basic and advanced Excel skills
-Podstawowych i zaawansowanych umiejętności Excela
+- **Basic and advanced Excel skills**
+- **Data analysis and visualization**
 
-Data analysis and visualization
-Analizy danych i wizualizacji
-
-📂 Repository Contents / Zawartość Repozytorium
+### 📂 Repository Contents
 
 In this repository, you will find:
+
+- 📁 **Exercise Files** – Excel files for self-learning
+
+### 🔧 Requirements
+
+To use the materials, you will need:
+
+- ✅ **Microsoft Excel** (preferred version 2016 or newer)
+- ✅ **Basic knowledge of spreadsheet operations**
+
+⬆ [Back to top](#)
+
+---
+
+## 🇵🇱 Wersja Polska
+
+### 🎯 Cel Projektu
+
+Celem tego repozytorium jest dostarczenie praktycznych materiałów, przewodników i przykładów dotyczących:
+
+- **Podstawowych i zaawansowanych umiejętności Excela**
+- **Analizy danych i wizualizacji**
+
+### 📂 Zawartość Repozytorium
+
 W tym repozytorium znajdziesz:
 
-Exercise Files – Excel files for self-learning
-Pliki Ćwiczeniowe – pliki Excela do samodzielnej nauki
+- 📁 **Pliki Ćwiczeniowe** – pliki Excela do samodzielnej nauki
 
-🔧 Requirements / Wymagania
+### 🔧 Wymagania
 
-To use the materials, you will need:  Aby korzystać z materiałów, potrzebujesz:
+Aby korzystać z materiałów, potrzebujesz:
 
-Microsoft Excel (preferred version 2016 or newer)
-Microsoft Excel (zalecana wersja 2016 lub nowsza)
+- ✅ **Microsoft Excel** (zalecana wersja 2016 lub nowsza)
+- ✅ **Podstawowa znajomość obsługi arkuszy kalkulacyjnych**
 
-Basic knowledge of spreadsheet operations
-Podstawowa znajomość obsługi arkuszy kalkulacyjnych
+⬆ [Powrót na górę](#)

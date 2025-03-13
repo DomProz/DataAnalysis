@@ -4,7 +4,7 @@
 
 ---
 
-## 🇬🇧 English Version
+## English Version
 
 ### 🎯 Project Goal
 
@@ -26,11 +26,11 @@ To use the materials, you will need:
 - ✅ **Microsoft Excel** (preferred version 2016 or newer)
 - ✅ **Basic knowledge of spreadsheet operations**
 
-⬆ [Back to top](#)
+⬆ [Back to top](#learning-excel-and-data-analysis--nauka-excela-i-analizy-danych)
 
 ---
 
-## 🇵🇱 Wersja Polska
+## Wersja Polska
 
 ### 🎯 Cel Projektu
 
@@ -52,4 +52,4 @@ Aby korzystać z materiałów, potrzebujesz:
 - ✅ **Microsoft Excel** (zalecana wersja 2016 lub nowsza)
 - ✅ **Podstawowa znajomość obsługi arkuszy kalkulacyjnych**
 
-⬆ [Powrót na górę](#)
+⬆ [Powrót na górę](#learning-excel-and-data-analysis--nauka-excela-i-analizy-danych)

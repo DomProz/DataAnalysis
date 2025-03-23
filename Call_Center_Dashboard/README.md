@@ -56,4 +56,4 @@ Projekt koncentruje się na analizie i wizualizacji danych call center przy uży
 
 ⬆ [Powrót na górę](#data-analysis-and-visualization-projects--projekty-analizy-danych-i-wizualizacji)
 
-<img src="Call_Center_Dashboard/Dashboard.JPG" alt="Dashboard Preview" width="600"/>
+![Dashboard.jpg](https://github.com/DomProz/DataAnalysis/blob/main/Call_Center_Dashboard/Dashboard.JPG?raw=true)

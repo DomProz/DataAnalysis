@@ -1,4 +1,4 @@
-# 📊 Learning Excel and Data Analysis / Nauka Excela i Analizy Danych
+# 📊 Data Analysis and Visualization Projects / Projekty Analizy Danych i Wizualizacji
 
 [🇬🇧 English Version](#english-version) | [🇵🇱 Wersja Polska](#wersja-polska)
 
@@ -6,50 +6,46 @@
 
 ## English Version
 
-### 🎯 Project Goal
+### 🎯 About This Repository
 
-The goal of this repository is to provide practical materials, guides, and examples on:
-
-- **Basic and advanced Excel skills**
-- **Data analysis and visualization**
+This repository contains projects related to **data analysis and visualization**.  
+The projects are created for **self-learning and portfolio development**.
 
 ### 📂 Repository Contents
 
 In this repository, you will find:
 
-- 📁 **Exercise Files** – Excel files for self-learning
+- 📁 **Project Files** – datasets, reports, and scripts used in analysis
 
 ### 🔧 Requirements
 
-To use the materials, you will need:
+To explore the projects, you will need:
 
-- ✅ **Microsoft Excel** (preferred version 2016 or newer)
-- ✅ **Basic knowledge of spreadsheet operations**
+- ✅ **Microsoft Excel, Python, or other data tools**
+- ✅ **Basic knowledge of data analysis and visualization**
 
-⬆ [Back to top](#learning-excel-and-data-analysis--nauka-excela-i-analizy-danych)
+⬆ [Back to top](#data-analysis-and-visualization-projects--projekty-analizy-danych-i-wizualizacji)
 
 ---
 
 ## Wersja Polska
 
-### 🎯 Cel Projektu
+### 🎯 O Repozytorium
 
-Celem tego repozytorium jest dostarczenie praktycznych materiałów, przewodników i przykładów dotyczących:
-
-- **Podstawowych i zaawansowanych umiejętności Excela**
-- **Analizy danych i wizualizacji**
+Repozytorium zawiera projekty dotyczące **analizy danych i wizualizacji**.  
+Projekty są tworzone na potrzeby **własnej nauki oraz budowy portfolio**.
 
 ### 📂 Zawartość Repozytorium
 
 W tym repozytorium znajdziesz:
 
-- 📁 **Pliki Ćwiczeniowe** – pliki Excela do samodzielnej nauki
+- 📁 **Pliki projektowe** – zestawy danych, raporty i skrypty używane w analizie
 
 ### 🔧 Wymagania
 
-Aby korzystać z materiałów, potrzebujesz:
+Aby zapoznać się z projektami, potrzebujesz:
 
-- ✅ **Microsoft Excel** (zalecana wersja 2016 lub nowsza)
-- ✅ **Podstawowa znajomość obsługi arkuszy kalkulacyjnych**
+- ✅ **Microsoft Excel, Python lub inne narzędzia do analizy danych**
+- ✅ **Podstawowa znajomość analizy danych i wizualizacji**
 
-⬆ [Powrót na górę](#learning-excel-and-data-analysis--nauka-excela-i-analizy-danych)
+⬆ [Powrót na górę](#data-analysis-and-visualization-projects--projekty-analizy-danych-i-wizualizacji)
